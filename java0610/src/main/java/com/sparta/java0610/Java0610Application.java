@@ -1,6 +1,5 @@
 package com.sparta.java0610;
 
-import com.sparta.java0610.dto.UserRequestDto;
 import com.sparta.java0610.service.UserService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
